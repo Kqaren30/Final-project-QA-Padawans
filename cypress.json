@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://modcloth.com",
+    "pageLoadTimeout" : 65000
+}
